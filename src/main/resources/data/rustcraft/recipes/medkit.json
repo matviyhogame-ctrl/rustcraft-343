@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rustcraft:bandage"
+    },
+    {
+      "item": "rustcraft:bandage"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "rustcraft:medkit",
+    "count": 1
+  }
+}

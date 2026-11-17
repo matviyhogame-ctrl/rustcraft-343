@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "rustcraft",
+  "version": "${version}",
+  "name": "RustCraft",
+  "description": "Rust mechanics in Minecraft: thirst, airdrops, sleeping bags, bandages, metal tools, sulfur and metal ore.",
+  "authors": ["You"],
+  "environment": "*",
+  "entrypoints": { "main": ["com.rustcraft.RustCraft"] },
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "java": ">=8"
+  }
+}
